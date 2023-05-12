@@ -5,6 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: join page
     url: https://byte.flomembers.com/helsec/members/application
+    method: GET
 
 status-website:
   baseUrl: /uptime
@@ -18,3 +19,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://helsec.fi
