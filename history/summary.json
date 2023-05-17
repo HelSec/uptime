@@ -4,7 +4,7 @@
     "url": "https://byte.flomembers.com/helsec/members/application",
     "icon": "https://icons.duckduckgo.com/ip3/byte.flomembers.com.ico",
     "slug": "join-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 910,
     "timeMonth": 910,
     "timeYear": 910,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-17": 0
+    }
   }
 ]
