@@ -4,19 +4,19 @@
     "url": "https://byte.flomembers.com/helsec/members/application",
     "icon": "https://icons.duckduckgo.com/ip3/byte.flomembers.com.ico",
     "slug": "join-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 952,
-    "timeWeek": 910,
-    "timeMonth": 910,
-    "timeYear": 910,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 917,
+    "timeDay": 958,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {
-      "2023-05-17": 0
+      "2023-05-17": 16
     }
   }
 ]
