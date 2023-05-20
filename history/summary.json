@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/byte.flomembers.com.ico",
     "slug": "join-page",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.80%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 902,
     "timeDay": 986,
     "timeWeek": 907,
     "timeMonth": 902,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2023-05-20": 0,
+      "2023-05-20": 6,
       "2023-05-17": 16
     }
   }
